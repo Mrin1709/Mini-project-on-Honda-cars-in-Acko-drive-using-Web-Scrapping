@@ -204,8 +204,11 @@ Both Team Leads and Co-Leads coordinated guidance, reviewed submissions, and sup
 📦 Deliverables
 Deliverable	Status
 Web Scraping Notebook (.ipynb)	✅ Completed
+
 Raw & Cleaned CSV Files	✅ Generated
+
 Visualization Dashboard	✅ Completed
+
 Documentation (README)	✅ Provided here
 Optional PPT Report	⬜ Can be generated on request
 🚀 How to Run the Project
